@@ -6,7 +6,7 @@ import PageContent from '../components/PageContent.vue'
 
 <template>
 
-    <page-content class="flex items-center bg-background">
+    <page-content class="flex md:items-center pt-5 md:pt-0 bg-background">
         <app-container class="grid md:grid-cols-2">
             <div class="w-full hidden md:block">
                 <div class="mx-auto w-[420px] h-[400px] relative">

@@ -39,7 +39,7 @@ module.exports = {
       },
       spacing: {
         'navbar-h': '56px',
-        'screen-navbar': 'calc(100vh - 56px)'
+        'screen-navbar': 'calc(100vh - 56px)',
       },
       gridTemplateColumns: {
         '1fr1.5fr': '1fr 1.5fr'

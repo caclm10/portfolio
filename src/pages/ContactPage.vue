@@ -4,7 +4,7 @@ import AppContainer from '../components/AppContainer.vue'
 </script>
 
 <template>
-    <page-content class="bg-black flex pt-5 md:pt-0 md:items-center text-white">
+    <page-content class="bg-black flex pt-5 md:pt-0 md:items-center text-white overflow-auto">
         <app-container>
             <div class="flex flex-col md:flex-row justify-between space-y-5 md:space-y-0">
                 <div class="flex flex-col justify-between">
@@ -46,7 +46,7 @@ import AppContainer from '../components/AppContainer.vue'
                 </div>
             </div>
 
-            <div class="flex justify-end mt-5 md:mt-16 space-x-12">
+            <div class="flex justify-end pt-5 md:pt-16 space-x-12 pb-10">
                 <a href="https://linkedin.com/in/lewin-xander-b30563249" target="_blank">
                     <v-icon name="bi-linkedin" class="text-white h-5 w-5" />
                 </a>

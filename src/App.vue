@@ -8,10 +8,8 @@ import BottomBar from './components/BottomBar.vue';
 
   <app-navbar />
 
-  <div class="min-h-screen pt-navbar-h">
-    <div class="h-screen-navbar text-black">
-      <router-view></router-view>
-    </div>
+  <div class="min-h-screen pb-[66px] md:pb-0 pt-navbar-h text-black">
+    <router-view></router-view>
   </div>
 
   <bottom-bar />
