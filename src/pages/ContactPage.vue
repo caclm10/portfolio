@@ -47,7 +47,7 @@ import AppContainer from '../components/AppContainer.vue'
             </div>
 
             <div class="flex justify-end mt-5 md:mt-16 space-x-12">
-                <a href="linkedin.com/in/lewin-xander-b30563249" target="_blank">
+                <a href="https://linkedin.com/in/lewin-xander-b30563249" target="_blank">
                     <v-icon name="bi-linkedin" class="text-white h-5 w-5" />
                 </a>
                 <a href="https://github.com/caclm10" target="_blank">
